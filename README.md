@@ -1,2 +1,14 @@
 # score178-resource
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
